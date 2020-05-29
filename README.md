@@ -1,2 +1,2 @@
-# Hotel-Management-System
+# Photography-website
 python,pyqt5,sqlite3
